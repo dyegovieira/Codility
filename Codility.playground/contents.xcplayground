@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name=' BinaryGap '/>
+        <page name='CyclicRotation'/>
+        <page name='OddOccurrencesInArray '/>
+        <page name='FrogJmp '/>
+        <page name='PermMissingElem '/>
+        <page name='TapeEquilibrium'/>
+        <page name='PermCheck '/>
+        <page name='FrogRiverOne '/>
+        <page name='MissingInteger'/>
+        <page name='MaxCounters '/>
+        <page name='PassingCars '/>
+        <page name='_GenomicRangeQuery '/>
+    </pages>
+</playground>
